@@ -18,11 +18,11 @@ python3 classifier.py
 The adult.csv dataset is used
 
 ## Step of working
-At the beginning, i started to work on data analysis using matplotlib on jupyter notebook but it wasn’t efficient so i used weka.
-To start this project I had to understand what is naive bayes. So I started my research and started an algorithm without success. I discovered that to make machine learning I had to work on the data before doing anything.
-I created a function to clean the data and split the dataset. After that I tried to restart the naive bayes algo and get a result. Then I added next features like flags and what was wrong.
+At the beginning, i started to work on data analysis using matplotlib on jupyter notebook but it wasn’t efficient so i used weka.<br>
+To start this project I had to understand what is naive bayes. So I started my research and started an algorithm without success. I discovered that to make machine learning I had to work on the data before doing anything.<br>
+I created a function to clean the data and split the dataset. After that I tried to restart the naive bayes algo and get a result. Then I added next features like flags and what was wrong.<br>
 Finally I created the k fold cross validation function.
 
-##About the result:
+## About the result
 My results are not too bad for this first project.
 I obtained 0.73 for the best accuracy score. I can upgrade the algorithm to better fit and train the model. I can also upgrade the rapidity of execution.
