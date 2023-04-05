@@ -17,6 +17,10 @@ python3 classifier.py
 ## Input Format
 The adult.csv dataset is used
 
+## Data analysis
+I used [Weka](https://www.cs.waikato.ac.nz/ml/weka/index.html) software to analyse the dataset.
+![weka analysis](weka_analysis.png)
+
 ## Step of working
 At the beginning, i started to work on data analysis using matplotlib on jupyter notebook but it wasn’t efficient so i used weka.<br>
 To start this project I had to understand what is naive bayes. So I started my research and started an algorithm without success. I discovered that to make machine learning I had to work on the data before doing anything.<br>
