@@ -1,5 +1,5 @@
 # Naive_Bayesian_Classifier
-Mini project 1 during my first semester at SFSU in data mining class
+Mini project 1 done during my first semester at SFSU in data mining class
 <br>
 
 ## How to use it ?
